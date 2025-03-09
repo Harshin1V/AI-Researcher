@@ -1,6 +1,9 @@
 # AI Researcher
 A simple AI Agent using Deepseek, LangGraph, and Streamlit to find results from the web that matches the user's query and give a summarized answer based on those results.
 Tavily is an AI-powered web **search** **API** that helps LLMs (like GPT) retrieve **real-time information** from the internet.
+```
+export TAVILY_API_KEY="your_api_key_here"
+```
 
 # Pre-requisites
 Install Ollama on your local machine from the [official website](https://ollama.com/). And then pull the Deepseek model:
